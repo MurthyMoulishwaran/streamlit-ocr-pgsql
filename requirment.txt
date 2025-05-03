@@ -1,0 +1,6 @@
+streamlit
+psycopg2
+pdf2image
+pytesseract
+Pillow
+symspellpy
